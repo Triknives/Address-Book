@@ -20,12 +20,15 @@ h1 {
   padding:10px;
   display:none;
   width: 49.2%;
+  box-shadow: 5px 10px #888888
 }
 
 .jumbotron {
   background-color:rgb(79, 236, 233);
   border-radius:15px;rgb(187, 181, 183);
   border: 3px solid grey;
+  margin-top: 20px;
+  box-shadow: 5px 10px #888888
 }
 
 form{
@@ -36,6 +39,7 @@ form{
   display:inline-block;
   float:left;
   padding:10px;
+  box-shadow: 5px 10px #888888
 }
 
 #landingZone {
@@ -45,6 +49,7 @@ form{
   width: 49%;
   padding:10px;
   float:right;
+  box-shadow: 5px 10px #888888
 }
 
 li {
